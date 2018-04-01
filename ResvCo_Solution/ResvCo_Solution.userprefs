@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{92753177-B6DC-41C0-815D-BDB391D0013B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ResvCo/Models/User.cs">
+    <Files>
+      <File FileName="ResvCo/Db/BandDbContext.cs" Line="13" Column="18" />
+      <File FileName="ResvCo/Models/Band.cs" Line="11" Column="1" />
+      <File FileName="ResvCo/Models/User.cs" Line="15" Column="1" />
+      <File FileName="ResvCo/Migrations/BandDbContextModelSnapshot.cs" Line="27" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ResvCo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

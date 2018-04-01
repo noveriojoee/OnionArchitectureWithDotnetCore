@@ -1,0 +1,10 @@
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/bin/Debug/netcoreapp2.0/AspNetCoreMultipleProject.deps.json
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/bin/Debug/netcoreapp2.0/AspNetCoreMultipleProject.runtimeconfig.json
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/bin/Debug/netcoreapp2.0/AspNetCoreMultipleProject.runtimeconfig.dev.json
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/bin/Debug/netcoreapp2.0/AspNetCoreMultipleProject.dll
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/bin/Debug/netcoreapp2.0/AspNetCoreMultipleProject.pdb
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/obj/Debug/netcoreapp2.0/ResvCo.csproj.CoreCompileInputs.cache
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/obj/Debug/netcoreapp2.0/ResvCo.AssemblyInfoInputs.cache
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/obj/Debug/netcoreapp2.0/ResvCo.AssemblyInfo.cs
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/obj/Debug/netcoreapp2.0/AspNetCoreMultipleProject.dll
+/Users/noveriojoe/Documents/DotNet_Workspace/resvCo_api/ResvCo_Solution/ResvCo/obj/Debug/netcoreapp2.0/AspNetCoreMultipleProject.pdb
